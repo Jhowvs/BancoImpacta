@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula3", "Aula3\Aula3.csproj", "{F0634DD4-9936-478F-B2E1-9E26BBBFC4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEnum", "ExemploEnum\ExemploEnum.csproj", "{8B032E14-2F9D-43AB-89BC-CB2609606240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoImpacta", "BancoImpacta\BancoImpacta.csproj", "{D681AF58-6961-41BF-9A8F-9E4D54222CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0634DD4-9936-478F-B2E1-9E26BBBFC4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0634DD4-9936-478F-B2E1-9E26BBBFC4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0634DD4-9936-478F-B2E1-9E26BBBFC4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0634DD4-9936-478F-B2E1-9E26BBBFC4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B032E14-2F9D-43AB-89BC-CB2609606240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B032E14-2F9D-43AB-89BC-CB2609606240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B032E14-2F9D-43AB-89BC-CB2609606240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B032E14-2F9D-43AB-89BC-CB2609606240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D681AF58-6961-41BF-9A8F-9E4D54222CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D681AF58-6961-41BF-9A8F-9E4D54222CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D681AF58-6961-41BF-9A8F-9E4D54222CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D681AF58-6961-41BF-9A8F-9E4D54222CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D08E6EE-3415-42A2-A34D-1DF696B07270}
+	EndGlobalSection
+EndGlobal

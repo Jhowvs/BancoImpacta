@@ -1,0 +1,15 @@
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.exe
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.deps.json
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.runtimeconfig.json
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.dll
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\bin\Debug\net6.0\BancoImpacta.pdb
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.AssemblyReference.cache
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfoInputs.cache
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.AssemblyInfo.cs
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.csproj.CoreCompileInputs.cache
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.dll
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\refint\BancoImpacta.dll
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.pdb
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\BancoImpacta.genruntimeconfig.cache
+C:\Users\Sabri\OneDrive\Área de Trabalho\Impacta\Aula3\Aula3\BancoImpacta\obj\Debug\net6.0\ref\BancoImpacta.dll
